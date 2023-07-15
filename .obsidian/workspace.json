@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "64c9e6331c04264d",
+    "type": "split",
+    "children": [
+      {
+        "id": "777fddbbe21e7e01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c8990041ac9e60a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FSD/JS/A. JavaScript Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b207190009ada6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c12f6233d77fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9d56a0463303f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47712fc469e6d60c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6738bc0e50ed9ab9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d1e733642f7d991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "de1fe10a588911c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bcd198aaee6ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90623aedc2e0725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FSD/JS/A. JavaScript Types.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27ebdb56c46f92d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FSD/JS/A. JavaScript Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d41979dabaa966cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FSD/JS/A. JavaScript Types.md"
+              }
+            }
+          },
+          {
+            "id": "e4ed6aa87d35e96c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c8990041ac9e60a",
+  "lastOpenFiles": [
+    "FSD/DBs and ORMs/No SQL.md",
+    "FSD/DBs and ORMs/SQL.md",
+    "FSD/Node JS/NodeJS Intro.md",
+    "FSD/Express API Design/Loading Environment variables.md",
+    "FSD/Express API Design/Exporting and importing modules.md",
+    "FSD/Express API Design/API Design in Express JS.md",
+    "FSD/DBs and ORMs/Prisma.md",
+    "FSD/DBs and ORMs/Mongoose.md",
+    "FSD/JS/G. Destructuring.md",
+    "FSD/JS/F. Higher order functions, examples w.r.t Arrays.md",
+    "FSD/JS/E. JavaScript Objects.md",
+    "FSD/JS/D. Scope.md",
+    "FSD/JS/C. Equality.md",
+    "FSD/JS/B. Coercion.md",
+    "FSD/JS/A. JavaScript Types.md",
+    "FSD/Express API Design/Password Hashing, Authentication, Authorization.md",
+    "FSD/React JS/A. Vanilla React.md",
+    "Attachments/scope1.png",
+    "Attachments/Screenshot from 2023-07-06 21-16-53.png",
+    "Attachments/scopes3.png",
+    "Attachments/Screenshot from 2023-07-06 21-10-06.png",
+    "Attachments/Screenshot from 2023-07-06 13-20-15.png",
+    "Attachments/scopes2.png",
+    "Attachments/Screenshot from 2023-07-06 13-06-38.png",
+    "Attachments/Screenshot from 2023-07-06 11-10-05.png",
+    "Attachments/Screenshot from 2023-07-06 02-30-54.png",
+    "FSD/HTML/J. HTML Media Elements.md",
+    "FSD/HTML/I. Emmet.md",
+    "FSD/HTML/H. Structuring Content.md",
+    "FSD/HTML/G. HTML Entities & Reserved Characters.md",
+    "FSD/HTML/F. Text level elements.md",
+    "FSD/HTML/A. Getting started with HTML.md",
+    "FSD/HTML/C. HTML Content Model.md",
+    "FSD/HTML/E. HTML Images.md",
+    "FSD/HTML/D. HTML Anchor Element.md",
+    "FSD/Overview.canvas",
+    "Untitled.canvas",
+    "DF",
+    "Attachments/anatomy_html.png",
+    "FSD/HTML"
+  ]
+}
