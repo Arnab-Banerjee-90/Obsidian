@@ -1,5 +1,1 @@
-test
-this is fun
-This is fun too
-Khudi mudi hudi chudi
-nudi nudi nudi fudiii
+This is a test for checking push and pull
