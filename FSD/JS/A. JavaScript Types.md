@@ -19,7 +19,6 @@ This primitive type has only two values `true` and `false`
 
 ### 1.2. The Bigint Primitive
 ---
-
 bigint is yet another primitive type in JS, it is different than regular number types as it can grow up to the system memory.
 
 ```js

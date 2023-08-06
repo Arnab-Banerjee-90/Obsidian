@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 435.5
   },
   "right": {
     "id": "de1fe10a588911c0",
@@ -156,21 +156,21 @@
   },
   "active": "3c8990041ac9e60a",
   "lastOpenFiles": [
-    "FSD/DBs and ORMs/No SQL.md",
     "FSD/DBs and ORMs/SQL.md",
+    "FSD/DBs and ORMs/Prisma.md",
+    "FSD/DBs and ORMs/Mongoose.md",
+    "FSD/JS/A. JavaScript Types.md",
+    "FSD/DBs and ORMs/No SQL.md",
     "FSD/Node JS/NodeJS Intro.md",
     "FSD/Express API Design/Loading Environment variables.md",
     "FSD/Express API Design/Exporting and importing modules.md",
     "FSD/Express API Design/API Design in Express JS.md",
-    "FSD/DBs and ORMs/Prisma.md",
-    "FSD/DBs and ORMs/Mongoose.md",
     "FSD/JS/G. Destructuring.md",
     "FSD/JS/F. Higher order functions, examples w.r.t Arrays.md",
     "FSD/JS/E. JavaScript Objects.md",
     "FSD/JS/D. Scope.md",
     "FSD/JS/C. Equality.md",
     "FSD/JS/B. Coercion.md",
-    "FSD/JS/A. JavaScript Types.md",
     "FSD/Express API Design/Password Hashing, Authentication, Authorization.md",
     "FSD/React JS/A. Vanilla React.md",
     "Attachments/scope1.png",
