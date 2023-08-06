@@ -1,2 +1,3 @@
 test
 this is fun
+This is fun too
